@@ -1,5 +1,5 @@
 const a = 10;
-const b = 15;
+const b = 15
 
 const c = 'Julyemerson';
 
